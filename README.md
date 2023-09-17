@@ -13,7 +13,7 @@ docker run -p 8501:8501 streamlit.
 
 After this, paste the following URL into your browser of choice:
 
-http://0.0.0.0:8501
+http://localhost:8501/
 
 Happy visualizations!
 
