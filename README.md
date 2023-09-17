@@ -1,6 +1,8 @@
 # British Premier League Streamlit Docker Project
 
-Hello and welcome to my British Premier League project. In order to use this project please clone this repo and within the folder where cloning was done please put the following [csv file](https://www.kaggle.com/datasets/quadeer15sh/premier-league-standings-11-seasons-20102021?resource=download)
+Hello and welcome to my British Premier League project. In order to use this project please clone this repo and within the folder where cloning was done please put the following [CSV file](https://www.kaggle.com/datasets/quadeer15sh/premier-league-standings-11-seasons-20102021?resource=download).
+
+:warning: Please rename the csv file to premier_league.csv
 
 
 ## Installing requirements
